@@ -1,1 +1,3 @@
 theme: jekyll-theme-cayman
+title: "WinLeak Dataset"
+description: "A Thermal + RGB Image Dataset for Window Air Leakage Detection"

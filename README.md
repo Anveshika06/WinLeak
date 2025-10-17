@@ -82,9 +82,17 @@ WinLeak is the **first** dataset to pair high-end and low-cost thermal imaging f
 
 ---
 
-## Baseline Segmentation Model (Results Only)
+## Dataset Access
 
-A dual-encoder U-Net combining RGB and thermal inputs was trained for pixel-wise segmentation.
+The WinLeak dataset is publicly available on Kaggle:
+
+**Download:** [https://www.kaggle.com/datasets/namangupta99/winleak/data](https://www.kaggle.com/datasets/namangupta99/winleak/data)
+
+---
+
+## Baseline Results by Authors
+
+A dual-encoder U-Net combining RGB and thermal inputs was trained for pixel-wise segmentation by the research team.
 
 | Metric (Level)        | Score |
 | --------------------- | ----- |
@@ -149,4 +157,4 @@ We thank participating homeowners and research collaborators for enabling data c
 
 ---
 
-*This site mirrors the accepted ****BuildSys 2025**** dataset short paper and will evolve with future releases of metadata, annotations, and benchmark updates.*
+*This site mirrors the accepted **BuildSys 2025** dataset short paper and will evolve with future releases of metadata, annotations, and benchmark updates.*
